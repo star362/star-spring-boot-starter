@@ -1,0 +1,15 @@
+{
+  "properties": [
+    {
+      "name": "star.name",
+      "type": "java.lang.String",
+      "description": "名称"
+    },
+    {
+      "name": "star.starfact",
+      "type": "java.lang.String",
+      "defaultValue": "平台系统接口详情",
+      "description": "starfact提示"
+    }
+  ]
+}
