@@ -1,1 +1,0 @@
-# star-spring-boot-starter
